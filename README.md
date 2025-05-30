@@ -58,3 +58,9 @@ Espacios
 
 Símbolos especiales: < y 3 (corazón)
 
+## 🎥 VÍDEO MOSTRANDO FUNCIONAMIENTO
+
+https://github.com/user-attachments/assets/0db97f9e-eb98-4484-b361-f50bc464caef
+
+https://github.com/user-attachments/assets/3d9e40b0-300a-442b-bd5d-6eb53160eb41
+
